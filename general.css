@@ -1,0 +1,23 @@
+.container{
+    max-width: 132rem;
+    padding: 0 6rem;
+    margin: auto;
+
+}
+.btn:link,
+.btn:visited{
+    padding: 1.4rem 3.7rem;
+    font-size: 1.3rem;
+    text-decoration: none;
+    border-radius: 30px;
+    font-weight: 500;
+    transition:all 0.3s;
+}
+
+.btn:hover,
+.btn:active{
+    background-color: #dd5630;
+}
+strong{
+    color: #343a40;
+}
